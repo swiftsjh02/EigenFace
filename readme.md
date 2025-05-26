@@ -38,7 +38,7 @@
 ### 1. 얼굴 데이터 등록
 
 ```bash
-python opencv.py --name 사용자이름
+python opencv.py 
 ```
 
 * 웹캠 창이 뜨며 얼굴이 감지될 때마다 벡터로 저장됩니다.
