@@ -57,7 +57,6 @@ jupyter notebook faces_pca.ipynb
 * 노트북 내 `n_components` 값을 조정해 구성 요소 개수를 바꿀 수 있습니다.
 
 
-4. 브라우저에서 `http://localhost:8888` 접속
 
 ## 디렉터리 구조
 
